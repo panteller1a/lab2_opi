@@ -24,14 +24,6 @@ public class A extends null {
         return this;
     }
 
-    public double ee() {
-        return 500.100;
-    }
-
-    public int hh() {
-        return new java.util.Random().nextInt();
-    }
-
     public void ab() {
         System.out.println("\n");
     }
@@ -50,5 +42,13 @@ public class A extends null {
 
     public long dd() {
         return 99999;
+=======
+    public float ff() {
+        return 3.14;
+    }
+
+    public String kk() {
+        return "Hello world";
+>>>>>>> blue_branch_1
     }
 }

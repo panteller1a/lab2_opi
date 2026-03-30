@@ -47,4 +47,24 @@ public class K extends null {
     public Object pp() {
         return this;
     }
+
+    public int cc() {
+        return 13;
+    }
+
+    public String kk() {
+        return "Hello world";
+    }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
+
+    public void aa() {
+        System.out.println("Hello world!");
+    }
+
+    public float ff() {
+        return 0;
+    }
 }

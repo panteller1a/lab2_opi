@@ -47,4 +47,24 @@ public class G extends null {
     public int cc() {
         return 42;
     }
+
+    public long ac() {
+        return 222;
+    }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
+
+    public double ad() {
+        return 11.09;
+    }
+
+    public void aa() {
+        return;
+    }
 }
