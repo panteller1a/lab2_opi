@@ -11,8 +11,4 @@ public class K {
     public long dd() {
         return 99999;
     }
-
-    public double ad() {
-        return java.lang.Math.sqrt(13);
-    }
 }
