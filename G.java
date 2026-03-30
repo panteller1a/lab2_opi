@@ -15,4 +15,8 @@ public class G {
     public long dd() {
         return 33;
     }
+
+    public long ac() {
+        return 222;
+    }
 }

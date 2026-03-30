@@ -15,4 +15,8 @@ public class A {
     public double ad() {
         return 12.12;
     }
+
+    public Object pp() {
+        return this;
+    }
 }
