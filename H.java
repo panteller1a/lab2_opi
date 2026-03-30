@@ -11,4 +11,8 @@ public class H extends A {
     public double ee() {
         return 100.500;
     }
+
+    public float ff() {
+        return 3.14;
+    }
 }
