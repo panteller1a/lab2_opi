@@ -13,7 +13,11 @@ public class K extends null {
     }
 
     public double ad() {
-        return java.lang.Math.sqrt(13);
+        return 12.12;
+    }
+
+    public void ab() {
+        System.out.println();
     }
 
     public int cc() {
@@ -22,5 +26,25 @@ public class K extends null {
 
     public String kk() {
         return "Hello world";
+    }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
+
+    public double ee() {
+        return 0.000001;
+    }
+
+    public Object pp() {
+        return this;
     }
 }
