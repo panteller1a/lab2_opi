@@ -1,4 +1,4 @@
-public class G {
+public class G extends null {
 
     private int c = 1;
 
@@ -13,10 +13,18 @@ public class G {
     }
 
     public long dd() {
-        return 33;
+        return 100500;
     }
 
     public long ac() {
         return 222;
+    }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
     }
 }

@@ -19,4 +19,16 @@ public class H extends A {
     public int hh() {
         return new java.util.Random(10).nextInt(10);
     }
+
+    public long ac() {
+        return 333;
+    }
+
+    public void ab() {
+        return;
+    }
+
+    public Object pp() {
+        return this;
+    }
 }

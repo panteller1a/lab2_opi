@@ -1,4 +1,4 @@
-public class A {
+public class A extends null {
 
     private int b = 1;
 
@@ -18,5 +18,17 @@ public class A {
 
     public Object pp() {
         return this;
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
+
+    public double ee() {
+        return 500.100;
+    }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
     }
 }
