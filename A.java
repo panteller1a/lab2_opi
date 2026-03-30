@@ -27,4 +27,8 @@ public class A {
     public double ee() {
         return 500.100;
     }
+
+    public float ff() {
+        return 3.14;
+    }
 }

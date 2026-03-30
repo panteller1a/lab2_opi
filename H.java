@@ -27,4 +27,8 @@ public class H extends A {
     public void ab() {
         return;
     }
+
+    public Object rr() {
+        return null;
+    }
 }
