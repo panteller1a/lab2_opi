@@ -23,4 +23,8 @@ public class K {
     public String kk() {
         return "Hello world";
     }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
 }
