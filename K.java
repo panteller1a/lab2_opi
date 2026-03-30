@@ -19,4 +19,8 @@ public class K {
     public int cc() {
         return 13;
     }
+
+    public String kk() {
+        return "Hello world";
+    }
 }

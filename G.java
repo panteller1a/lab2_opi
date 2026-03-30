@@ -19,4 +19,8 @@ public class G {
     public long ac() {
         return 222;
     }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
 }
