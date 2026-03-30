@@ -12,19 +12,4 @@ public class G extends null {
         return -1;
     }
 
-    public long dd() {
-        return 100500;
-    }
-
-    public long ac() {
-        return 222;
-    }
-
-    public int hh() {
-        return new java.util.Random().nextInt();
-    }
-
-    public java.util.Random mm() {
-        return new java.util.Random();
-    }
 }

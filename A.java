@@ -23,12 +23,4 @@ public class A extends null {
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
     }
-
-    public double ee() {
-        return 500.100;
-    }
-
-    public int hh() {
-        return new java.util.Random().nextInt();
-    }
 }

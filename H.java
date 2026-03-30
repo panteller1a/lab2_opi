@@ -23,12 +23,4 @@ public class H extends A {
     public long ac() {
         return 333;
     }
-
-    public void ab() {
-        return;
-    }
-
-    public Object pp() {
-        return this;
-    }
 }

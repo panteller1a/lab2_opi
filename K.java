@@ -23,12 +23,4 @@ public class K extends null {
     public String kk() {
         return "Hello world";
     }
-
-    public int hh() {
-        return new java.util.Random(10).nextInt(10);
-    }
-
-    public void ab() {
-        System.out.println("\n");
-    }
 }
