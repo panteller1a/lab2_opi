@@ -31,4 +31,8 @@ public class K {
     public void aa() {
         System.out.println("Hello world!");
     }
+
+    public float ff() {
+        return 0;
+    }
 }

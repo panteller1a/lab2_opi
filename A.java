@@ -31,4 +31,8 @@ public class A {
     public float ff() {
         return 3.14;
     }
+
+    public String kk() {
+        return "Hello world";
+    }
 }

@@ -31,4 +31,8 @@ public class G {
     public double ad() {
         return 11.09;
     }
+
+    public void aa() {
+        return;
+    }
 }
