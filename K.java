@@ -15,4 +15,8 @@ public class K {
     public double ad() {
         return java.lang.Math.sqrt(13);
     }
+
+    public int cc() {
+        return 13;
+    }
 }
