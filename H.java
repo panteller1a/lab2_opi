@@ -36,3 +36,4 @@ public class H extends A {
         return new java.util.Random();
     }
 }
+change
