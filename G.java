@@ -1,6 +1,6 @@
 public class G extends null {
 
-    private int c = 1;
+    private int c = 3;
 
     private byte h = 1;
 
