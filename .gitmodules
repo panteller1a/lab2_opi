@@ -1,0 +1,3 @@
+[submodule "ITMO"]
+	path = ITMO
+	url = https://github.com/panteller1a/ITMO.git
